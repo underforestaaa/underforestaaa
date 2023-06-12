@@ -3,7 +3,6 @@
 - 🔭 I’m currently a junior scientific researcher at Russian Quantum Center and CEO of Suggest Quantum
 - 🌱 I’m currently learning quantum physics
 - 👯 I’m looking to collaborate on practical usecases of quantum computing 
-- 💬 Ask me about ion trapping
 - 📫 How to reach me: a.podlesnyy@rqc.ru
-- ⚡ Fun fact: I love Corgi
+- ⚡ Fun fact: I love Corgi's
 
